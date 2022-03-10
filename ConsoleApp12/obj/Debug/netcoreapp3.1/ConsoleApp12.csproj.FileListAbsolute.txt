@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\ders.cs\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\ders.cs\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ders.cs\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfo.cs
+C:\Users\hp\Desktop\ders.cs\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ders.cs\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.exe
+C:\Users\hp\Desktop\ders.cs\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.deps.json
+C:\Users\hp\Desktop\ders.cs\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.json
+C:\Users\hp\Desktop\ders.cs\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.dev.json
+C:\Users\hp\Desktop\ders.cs\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\Users\hp\Desktop\ders.cs\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\Users\hp\Desktop\ders.cs\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\Users\hp\Desktop\ders.cs\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\Users\hp\Desktop\ders.cs\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.genruntimeconfig.cache
